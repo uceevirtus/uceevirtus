@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uceevirtus
+- 👋 Hi, I’m Uchechukwu Virtus
 - 👀 I’m interested in Financial and Data Analysis
 - 🌱 I’m currently learning Data Analysis with python
 - 💞️ I’m looking to collaborate on any Data or financial analysis project
